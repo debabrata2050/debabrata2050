@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-view rawgif_example hosted with ❤ by GitHub
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 <!--
 **debabrata2050/debabrata2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
