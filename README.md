@@ -1,6 +1,5 @@
-<h1 align="center"> Heya, I'm Debabrata Halder <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center" border="none"> Heya, I'm Debabrata Halder <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <hr/>
-<br/>
 <h4 align="center">I am a Fresher at GEC Bharatpur pursuing B.Tech in CSE.</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=debabrata2050" alt="debabrata2050" /> </p><br/>
 
