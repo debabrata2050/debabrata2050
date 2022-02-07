@@ -4,14 +4,7 @@
 <h4 align="center">I am a Fresher at GEC Bharatpur pursuing B.Tech in CSE.</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=debabrata2050" alt="debabrata2050" /> </p><br/>
 
-## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="https://github.com/debabrata2050"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/debabrata2050"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/debabrata2050"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let's Connect
 <p align="center">
   <a href="mailto:haldersraboni2018@gmail.com" >
     <img align="center" alt="debabrata2050 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
