@@ -1,11 +1,17 @@
-# Heya, I'm Debabrata Halder<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<h1 align="center"> Heya, I'm Debabrata Halder <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<hr/>
 Thank You for taking the time to view my GitHub Profile 😄
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata2050" alt="akhilgkrishnan" /> </p><br/>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="https://github.com/debabrata2050"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/debabrata2050"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/debabrata2050"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
+<hr/>
 
 <!--
 **debabrata2050/debabrata2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
