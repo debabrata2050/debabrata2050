@@ -2,7 +2,7 @@
 <hr/>
 Thank You for taking the time to view my GitHub Profile 😄
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata2050" alt="akhilgkrishnan" /> </p><br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=debabrata2050" alt="akhilgkrishnan" /> </p><br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
