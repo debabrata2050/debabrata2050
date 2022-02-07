@@ -1,8 +1,8 @@
 <h1 align="center"> Heya, I'm Debabrata Halder <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <hr/>
-Thank You for taking the time to view my GitHub Profile 😄
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=debabrata2050" alt="akhilgkrishnan" /> </p><br/>
+<br/>
+<h4 align="center">I am a Fresher at GEC Bharatpur pursuing B.Tech in CSE.</h4>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=debabrata2050" alt="debabrata2050" /> </p><br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
@@ -12,7 +12,11 @@ Thank You for taking the time to view my GitHub Profile 😄
 </p>
 
 <hr/>
-
+<br/>
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2021 Tien Huynh tienhuynh-tn
+</div>
 <!--
 **debabrata2050/debabrata2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
