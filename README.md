@@ -4,6 +4,7 @@ Thank You for taking the time to view my GitHub Profile 😄
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!--
 **debabrata2050/debabrata2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
