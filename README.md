@@ -3,8 +3,8 @@
 ### Well Well Well, since you're here 🕶
 
 _might as well read this stupid intro eh?_
-🌝 you already know my name, it's like right there.
-🧍‍♂️ 21 year old<br>
-👨‍🎓 CS Undergrad at GEC Bharatpur<br>
-👨‍💻 Familiar with C/C++, learning python<br>
-👤 LinkedIn Profile - https://www.linkedin.com/in/debabrata2050/<br>
+- 🌝 you already know my name, it's like right there.
+- 🧍‍♂️ 21 year old
+- 👨‍🎓 CS Undergrad at GEC Bharatpur
+- 👨‍💻 Familiar with C/C++, learning python
+- 👤 LinkedIn Profile - https://www.linkedin.com/in/debabrata2050/
