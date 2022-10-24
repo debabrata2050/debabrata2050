@@ -4,9 +4,9 @@
 
 _might as well read this stupid intro eh?_
 - 🌝 you already know my name, it's like right there.
-- 🧍‍♂️ 21 year young (not old)
+- 🧍‍♂️ 21 year young (<b>not old</b>)
 - 👨‍🎓 CS Undergrad at GEC Bharatpur
-- 👨‍💻 Familiar with C/C++, Java and learning python
+- 👨‍💻 Familiar with C/C++, Java and learning Python
 - 👤 LinkedIn Profile - https://www.linkedin.com/in/debabrata2050/
 
 
