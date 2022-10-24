@@ -8,3 +8,11 @@ _might as well read this stupid intro eh?_
 - 👨‍🎓 CS Undergrad at GEC Bharatpur
 - 👨‍💻 Familiar with C/C++, learning python
 - 👤 LinkedIn Profile - https://www.linkedin.com/in/debabrata2050/
+
+
+_Idk what else to write, let's get to know you_  
+Hit me up [@debabrata2050](https://www.instagram.com/debabrata2050/) on Instagram orrrrrrrr....  
+if you're the classic type, mail me at halderdebabrata01@gmail.com
+
+
+P.S. Sorry for that weird GIF.
