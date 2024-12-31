@@ -1,6 +1,6 @@
 
 
-![if you can read this, it's sad cause gif didn't load](https://64.media.tumblr.com/608af8d539b006e8f67270e121d1698b/f767ef03c8c82dd2-52/s400x600/ac0a2e9168ca3eeac6fb853d5719dba4a39e02f1.gifv)
+![if you can read this, it's sad cause gif didn't load](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazYzYzJjd2Y1bmp4dGphajJ3dzl2Y2V0aDZsZnBjbWplNGw3ZmY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eiG9j5gkekblJECulD/giphy.gif)
 
 ### Well Well Well, since you're here 🕶
 
