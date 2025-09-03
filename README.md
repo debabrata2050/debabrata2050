@@ -10,3 +10,6 @@ _might as well read this stupid intro eh?_
 - 👨‍🎓 CS Undergrad at GEC Bharatpur
 - 👨‍💻 Familiar with C/C++, Java and learning Python
 - 👤 LinkedIn Profile - https://www.linkedin.com/in/debabrata2050/
+
+Daily Practice<br />
+<img src="https://www.codewars.com/users/debabrata2050/badges/large">
