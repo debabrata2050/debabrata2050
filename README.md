@@ -12,4 +12,4 @@ _might as well read this stupid intro eh?_
 - 👤 LinkedIn Profile - https://www.linkedin.com/in/debabrata2050/
 
 Daily Practice<br />
-<img src="https://www.codewars.com/users/debabrata2050/badges/large">
+<a href="https://www.codewars.com/users/debabrata2050"><img src="https://www.codewars.com/users/debabrata2050/badges/large"></a>
